@@ -12,7 +12,6 @@
     .header {
       color: #EBEBE0;
     }
-
     h1 {
       font-size: 6rem;
       margin-top: .5rem;
@@ -31,12 +30,15 @@
       background: #999966;
       color: white;
     }
+    .main {
+      max-width: 80rem;
+    }
     img {
-      width: 200px
+      width: 20rem
        }
 
       .navigation__link {
         color: #d3d3c9;
         font-size: 2rem;
-        padding: 2rem;
+        padding-right: 2rem;
       }
